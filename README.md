@@ -289,14 +289,10 @@ HTML CSS JS React
 - [ ] Submitting Form [Article](https://www.taniarascia.com/getting-started-with-react/#submitting-form-data)
 - [ ] Pulling in API Data [Article](https://www.taniarascia.com/getting-started-with-react/#pulling-in-api-data)
 - [ ] Building and Deploying your React App [Article](https://www.taniarascia.com/getting-started-with-react/#building-and-deploying-a-react-app)
-- [ ] The Beginner's Guide to React by Kent C. Dodds [Video](https://egghead.io/courses/the-beginner-s-guide-to-react)
 
 #### Front end library:
 - [ ] Redux [Video](https://youtu.be/CVpUuw9XSjY)
 
-#### APIs
-- [ ] REST
-- [ ] GraphQL
 
 #### Debugging Tools
 - [ ] Browser Dev tools [Article](https://developer.mozilla.org/en-US/docs/Learn/Common_questions/What_are_browser_developer_tools)
